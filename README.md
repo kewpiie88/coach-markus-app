@@ -1,5 +1,7 @@
 # Coach Markus – Web App (Next.js + Supabase + Stripe)
 
+test: Deployed with Vercel
+
 A polished, low-cost web app for tiered online coaching with:
 - Email login (magic link)
 - Tiers (Beginner/Intermediate/Advanced/PRO)
